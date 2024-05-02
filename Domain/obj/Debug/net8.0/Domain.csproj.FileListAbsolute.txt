@@ -1,0 +1,11 @@
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/bin/Debug/net8.0/Domain.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/Domain/obj/Debug/net8.0/ref/Domain.dll

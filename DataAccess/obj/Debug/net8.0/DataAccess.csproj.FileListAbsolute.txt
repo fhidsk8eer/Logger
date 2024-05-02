@@ -1,0 +1,15 @@
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/bin/Debug/net8.0/Domain.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/bin/Debug/net8.0/Domain.pdb
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CopyComplete
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/max/Documents/CSharp/dependency-injection/LoggerApplication/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
